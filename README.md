@@ -214,6 +214,6 @@ def score_chance(dice):
 git clone https://github.com/sueprim/Yahtzee_Dice.git
 해당 프로젝트 파일로 이동
 cd/../Yahtzee_Dice
-python3 Yahtzee.py
+python3 project_2022131053.py
 이후 즐겁게 친구들과 플레이!!
 ```
