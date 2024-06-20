@@ -211,9 +211,10 @@ def score_chance(dice):
 ### 실행 방법
 ```
 해당 repository를 clone
-git clone https://github.com/sueprim/Yacht_Dice.git
+git clone https://github.com/sueprim/Yahtzee_Dice
+.git
 해당 프로젝트 파일로 이동
-cd/../Yacht_Dice
-python3 yacht.py
+cd/../Yahtzee_Dice
+python3 Yahtzee.py
 이후 즐겁게 친구들과 플레이!!
 ```
